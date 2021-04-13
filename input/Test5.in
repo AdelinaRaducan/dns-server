@@ -1,0 +1,24 @@
+set www.google.com 8.8.8.8
+set www.facebook.com 69.171.255.12
+set www.google.com 8.8.8.8
+set www.yahoo.com 67.195.160.76
+set www.okazii.ro 217.156.103.254
+set www.olx.ro 192.228.79.201
+set www.teamnet.ro 86.105.246.122
+remove www.radiozu.ro
+set www.okazii.ro 217.156.103.254
+set www.facebook.com 69.171.255.12
+set www.upb.ro 141.85.166.4
+set www.kissfm.ro 78.104.145.6
+set www.radiozu.ro 192.112.36.4
+remove www.okazii.ro
+set www.realitatea.net 199.127.181.242
+remove www.google.com
+get www.facebook.com
+get www.yahoo.com
+get www.okazii.ro
+get www.olx.ro
+get www.teamnet.ro
+remove www.yahoo.com
+print
+get www.yahoo.com

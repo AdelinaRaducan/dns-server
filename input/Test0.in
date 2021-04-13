@@ -1,0 +1,4 @@
+set www.google.com 8.8.8.8
+set www.yahoo.com 67.195.160.76
+set www.olx.ro 192.228.79.201
+print

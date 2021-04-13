@@ -1,0 +1,7 @@
+set www.google.com 8.8.8.8
+set www.facebook.com 69.171.255.12
+set www.yahoo.com 67.195.160.76
+set www.okazii.ro 217.156.103.254
+set www.olx.ro 192.228.79.201
+print
+print_list 17

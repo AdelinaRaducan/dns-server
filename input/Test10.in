@@ -1,0 +1,50 @@
+set www.google.com 8.8.8.8
+set www.facebook.com 69.171.255.12
+set www.google.com 8.8.8.8
+set www.yahoo.com 67.195.160.76
+set www.okazii.ro 217.156.103.254
+set www.olx.ro 192.228.79.201
+set www.teamnet.ro 86.105.246.122
+set www.okazii.ro 217.156.103.254
+set www.facebook.com 69.171.255.12
+set www.upb.ro 141.85.166.4
+set www.kissfm.ro 78.104.145.6
+set www.radiozu.ro 192.112.36.4
+set www.realitatea.net 199.127.181.242
+set www.antena3.ro 192.58.128.30
+set www.youtube.com 81.91.161.99
+set www.emag.ro 188.215.38.254
+set www.altex.ro 192.5.5.241
+set www.facebook.com 69.171.255.12
+set www.hp.com 192.162.16.18
+set www.samsung.com 216.69.185.52
+set www.mercador.ro 198.41.0.4
+set www.olx.ro 192.228.79.201
+set www.teamnet.ro 86.105.246.122
+set www.showyourip.com 192.41.162.30
+set www.okazii.ro 217.156.103.254
+set www.microsoft.ro 184.26.160.65
+set www.microchip.ro 193.0.14.129
+set www.roarmycatering.ro 192.162.16.18
+set www.cora.ro 209.112.114.33
+set www.auchan.ro 192.162.16.20
+print
+remove www.google.com
+get www.facebook.com
+get www.yahoo.com
+get www.hi5.com
+get www.olx.ro
+get www.profm.ro
+get www.microsoft.ro
+get www.microchip.ro
+get www.roarmycatering.ro
+get www.cora.ro
+get www.auchan.ro
+remove www.acs.ro
+get www.yahoo.com
+print_list 0
+print_list 1
+print_list 2
+print_list 3
+print_list 4
+print_list 10
