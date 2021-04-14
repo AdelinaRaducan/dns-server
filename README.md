@@ -81,3 +81,6 @@ unde:
 - hash i .in – fisierul de date de iesire
 - Fisierul de intrare va contine fiecare comanda pe o linie noua
 - Tema se va implementa folosind liste dublu inlantuite circulare generice.
+
+# Checker
+check.sh - scriptul de testare
